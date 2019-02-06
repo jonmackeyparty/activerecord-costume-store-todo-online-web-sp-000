@@ -1,4 +1,4 @@
-def class Costume < ActiveRecord::Base
+class Costume < ActiveRecord::Base
 end
 
 # Create your Costume class here
