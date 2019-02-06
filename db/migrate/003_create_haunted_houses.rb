@@ -1,4 +1,4 @@
-class CreateHauntedHouses < ActiveRecord::Migration[4.2]
+class CreateHaunted_Houses < ActiveRecord::Migration[4.2]
   
   def change 
     create_table :hauntedhouses do |t|
